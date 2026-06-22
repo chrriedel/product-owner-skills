@@ -1,0 +1,27 @@
+{
+  "name": "Product Owner Agent Team for Azure DevOps",
+  "owner": {
+    "name": "Christof Riedel",
+    "email": "christof.riedel@ebnerstolz.de"
+  },
+  "metadata": {
+    "description": "A Product Owner agent team for Azure DevOps that verifies, reviews, writes, and prioritizes user stories and backlogs from VS Code with GitHub Copilot Chat."
+  },
+  "plugins": [
+    {
+      "name": "Product Owner Agent Team for Azure DevOps",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Product Owner orchestrator + specialist agents and skills for INVEST review, backlog prioritization, and safe Azure DevOps work-item operations",
+      "category": "development",
+      "tags": [
+        "azure devops",
+        "product owner",
+        "user stories",
+        "backlog",
+        "prioritization",
+        "agents"
+      ]
+    }
+  ]
+}

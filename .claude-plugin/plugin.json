@@ -1,0 +1,25 @@
+{
+  "name": "Product Owner Agent Team for Azure DevOps",
+  "version": "1.0.0",
+  "description": "Product Owner agent team for Azure DevOps — verify, review, write, and prioritize user stories and backlogs. Includes orchestrator + specialist agents and skills for INVEST review, WSJF/RICE/MoSCoW/Kano scoring, and safe work-item operations.",
+  "author": {
+    "name": "Christof Riedel",
+    "email": "christof.riedel@ebnerstolz.de"
+  },
+  "license": "MIT",
+  "keywords": [
+    "azure-devops",
+    "product-owner",
+    "user-stories",
+    "backlog",
+    "invest",
+    "wsjf",
+    "rice",
+    "moscow",
+    "kano",
+    "prioritization",
+    "wiql",
+    "agents",
+    "skills"
+  ]
+}
